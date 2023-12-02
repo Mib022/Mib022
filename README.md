@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mib022 Mibelmont
 - 👀 I’m interested in ... /* All about technology
-- 🌱 I’m currently learning ... /* Computer Science, Programming, Cybersecurity, Quantum Computer
-- 💞️ I’m looking to collaborate on ... / * Project Management
+- 🌱 I’m currently learning ... /* Computer Science, Programming, Cybersecurity, Quantum Computer, Scrum Master
+- 💞️ I’m looking to collaborate on ... / * DevOps & Project Management
 - 📫 How to reach me ... /* belmontmich@gmail.com / https://discord.gg/uyaxBdqgJt
 
 <!---
