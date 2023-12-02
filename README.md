@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mib022 Mibelmont
+- 👋 Hi, there! I’m @Mib022. My name's Michelle Belmont but you can call me Mibelmont (pronouced Me Belmont) or simply Mi (pronounced Me)
+- 🌍 From Rio de Janeiro - Brazil
 - 👀 I’m interested in ... /* All about technology
 - 🌱 I’m currently learning ... /* Computer Science, Programming, Cybersecurity, Quantum Computer, Scrum Master
 - 💞️ I’m looking to collaborate on ... / * DevOps & Project Management
