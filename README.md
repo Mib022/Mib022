@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mib022
-- 👀 I’m interested in ... /* Tokens and Smart Contracts 
-- 🌱 I’m currently learning ... /* Web 3.0
-- 💞️ I’m looking to collaborate on ... / * Tokens and Smart Contracts 
+- 👋 Hi, I’m @Mib022 Mibelmont
+- 👀 I’m interested in ... /* All about technology
+- 🌱 I’m currently learning ... /* Computer Science, Programming, Cybersecurity, Quantum Computer
+- 💞️ I’m looking to collaborate on ... / * Project Management
 - 📫 How to reach me ... /* belmontmich@gmail.com / https://discord.gg/uyaxBdqgJt
 
 <!---
