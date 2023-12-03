@@ -1,6 +1,4 @@
-![michelle-belmont-github-header-image](https://github.com/Mib022/Mib022/assets/101289812/15ff56a0-a3f8-4cb7-918e-1ff94424caf5)
-
-
+![Michelle-Belmont-github-header-image (2)](https://github.com/Mib022/Mib022/assets/101289812/ff992908-06de-4b0a-9f9b-2179858497d7)
 
 
 - 👋 Hi, there! I’m @Mib022. My name's Michelle Belmont but you can call me Mibelmont (pronouced Me Belmont) or simply Mi (pronounced Me)
