@@ -5,7 +5,7 @@
 - 🌍 From Rio de Janeiro - Brazil
 - 👀 I’m interested in ... /* All about technology
 - 🌱 I’m currently learning ... /* Computer Science, Programming, Data Science, Cybersecurity, Quantum Computer, Scrum Master
-- 💞️ I’m looking to collaborate on ... / * DevOps & Project Management / Dev Front End
+- 💞️ I’m looking to collaborate on ... / * DevOps & Project Management / Dev Front End / Dev Full Stack
 - 📫 How to reach me ... /* belmontmich@gmail.com / https://discord.gg/uyaxBdqgJt
 
 ![github-header-image](https://github.com/Mib022/Mib022/assets/101289812/ec755439-15bc-4077-8017-678d7ac0fa9d)
