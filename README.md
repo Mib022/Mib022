@@ -5,9 +5,6 @@
 - 💞️ I’m looking to collaborate on ... / * DevOps & Project Management
 - 📫 How to reach me ... /* belmontmich@gmail.com / https://discord.gg/uyaxBdqgJt
 
-![bb-yoda-fundo-preto-1](https://github.com/Mib022/Mib022/assets/101289812/65aaced8-7fdb-418b-96ef-f9645f3ab828)
-
-
 
 
 
