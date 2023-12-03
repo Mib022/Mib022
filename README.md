@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on ... / * DevOps & Project Management / Dev Front End
 - 📫 How to reach me ... /* belmontmich@gmail.com / https://discord.gg/uyaxBdqgJt
 
-![bb-yoda-2](https://github.com/Mib022/Mib022/assets/101289812/79ee9172-c278-4d0b-9910-299d86365bc4)
+![github-header-image](https://github.com/Mib022/Mib022/assets/101289812/ec755439-15bc-4077-8017-678d7ac0fa9d)
 
 
 
